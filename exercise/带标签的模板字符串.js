@@ -1,7 +1,7 @@
 let dessert = '🎂',
   drink = '☕️'
 
-breakfast = kitchen`今天的早餐是 \n ${dessert} 和 ${drink}`
+let breakfast = kitchen`今天的早餐是 \n ${dessert} 和 ${drink}`
 
 function kitchen( strings, ...values) {
   console.log(strings) // [ '今天的早餐是 \n ', ' 和 ', '' ]
