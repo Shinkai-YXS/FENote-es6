@@ -1,3 +1,5 @@
+'use strict';
+
 // 解构对象
 function breakfast() {
   return {name: 'Shinkai', age: '23', rests: {hobby: 'Photo', work: 'Software Developer'}}

@@ -1,3 +1,5 @@
+'use strict';
+
 function breakfast(dessert = '🎂', drink = '☕️') {
   return `${dessert} ${drink}`
 }

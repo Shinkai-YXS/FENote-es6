@@ -1,3 +1,5 @@
+'use strict';
+
 // 箭头函数(定义了一个 breakfast 的函数，能够接受 dessert 并返回 dessert 的函数)
 let breakfast = dessert => dessert;
 // 转换为普通函数

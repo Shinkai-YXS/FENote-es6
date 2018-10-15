@@ -1,3 +1,5 @@
+'use strict';
+
 // 解构数组
 
 function breakfast() {

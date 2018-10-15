@@ -1,3 +1,4 @@
+'use strict';
 let dessert = '🎂',
     drink = '☕️'
 // 普通的写法：
